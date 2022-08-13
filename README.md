@@ -1,6 +1,6 @@
 # HUAYI
 
-Control HUA YI Electronic Power Supply
+Developing a Serial Communication for HUA YI Electronic Power Supply
 
 
 This project discusses developing a serial base communication with HUA YI Electronics Power Supplies.
