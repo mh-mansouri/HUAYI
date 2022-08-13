@@ -1,0 +1,10 @@
+bin\Debug\Power_Supply_Protocol.exe
+bin\Debug\Power_Supply_Protocol.pdb
+bin\Debug\Power_Supply_Protocol.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Power_Supply_Protocol.FRMMain.resources
+obj\Debug\Power_Supply_Protocol.Resources.resources
+obj\Debug\Power_Supply_Protocol.vbproj.GenerateResource.Cache
+obj\Debug\Power_Supply_Protocol.exe
+obj\Debug\Power_Supply_Protocol.xml
+obj\Debug\Power_Supply_Protocol.pdb
